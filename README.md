@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am a friendly front-end programmer who loves to explore the world of technology. Currently based in Chengdu, China.
+
+- 🔭 I’m currently working on various projects including front-end development, Desktop App development using Electron, vscode extension development, and diving into the source code of these technologies.
+- 🌱 I’m currently expanding my knowledge in Rust and other front-end technologies.
+- 👯 I’m open to collaboration opportunities. If you have any interesting projects, feel free to reach out!
+- 💬 Feel free to ask me anything related to front-end development, Rust, or any other computer science topics. Let's learn and grow together!
+- 📫 You can reach me via email: [Mail](mailto:sfilata@hotmail.com)
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I enjoy exploring different video games and trying out new books in my free time.
+
 <!--
 **sfilata/sfilata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
